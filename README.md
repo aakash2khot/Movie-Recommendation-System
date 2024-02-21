@@ -28,7 +28,10 @@ Explainability is provided for the recommendations, including why certain movies
 
 ## Files Included
 Exploratory Data Analysis (EDA) Notebook: This notebook explores the dataset, including data distribution, statistics, and visualizations.
+
 Collaborative Filtering Notebook: This notebook implements the neighborhood-based collaborative filtering algorithm.
+
 K-Means Clustering & SVD Notebook: This notebook implements the combination of K-Means clustering and Reduced SVD for recommendation.
+
 ## Conclusion
 The movie recommendation system provides personalized suggestions to users based on their past preferences. By leveraging collaborative filtering and clustering techniques, the system can accurately recommend movies that users are likely to enjoy. Additionally, explainability is provided to enhance user trust and understanding of the recommendations.
