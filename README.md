@@ -16,6 +16,7 @@ Neighborhood-based Collaborative Filtering: This method involves recommending mo
 Combination of K-Means Clustering and Reduced Singular Value Decomposition (SVD): This approach involves two steps:
 
 K-Means Clustering: Grouping similar users or movies into clusters using K-Means clustering. This helps in identifying patterns and similarities among users or movies.
+
 Reduced SVD: Applying Singular Value Decomposition to reduce the dimensionality of the dataset. This helps in capturing the underlying latent factors that contribute to user preferences and movie characteristics.
 
 ### Testing of Recommendations
